@@ -157,7 +157,10 @@ void elementuniqueness(int *v, int n) {
         }
         if (repete == 0) {
             printf("%d ", v[i]);
-            semunico = 0;
+            semunico = 0; 
+/*
+            variavel utilizada para saber se existe um elemento unico
+*/
 
         }
 
@@ -216,6 +219,9 @@ void main() {
 
     char stropc[] = "\n\n0 - Sair\n1 - Exibir o vetor ordenado\n2 - Closest Pair\n3 - Element uniqueness\n4 - Frequency distribution\n";
     printf("%s", stropc);
+/*
+    menu para o usuario escolher comando a ser executado
+*/
     int opc;
     scanf("%d", &opc);
     while (opc > 0) {
@@ -259,4 +265,3 @@ void main() {
     v = NULL;
     return;
 }
-
