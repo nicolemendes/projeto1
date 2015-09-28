@@ -9,8 +9,9 @@
                    displayName="Arquivos de Código-Fonte"
                    projectFiles="true">
       <itemPath>READ ME</itemPath>
-      <itemPath>entradaspadrao</itemPath>
-      <itemPath>entradasteste</itemPath>
+      <itemPath>entradaspadrao.txt</itemPath>
+      <itemPath>entradasteste.txt</itemPath>
+      <itemPath>entradasteste2.txt</itemPath>
       <itemPath>main.c</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
@@ -41,9 +42,11 @@
       </compileType>
       <item path="READ ME" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="entradaspadrao" ex="false" tool="3" flavor2="0">
+      <item path="entradaspadrao.txt" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="entradasteste" ex="false" tool="3" flavor2="0">
+      <item path="entradasteste.txt" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="entradasteste2.txt" ex="false" tool="3" flavor2="0">
       </item>
       <item path="main.c" ex="false" tool="0" flavor2="0">
       </item>
@@ -70,9 +73,11 @@
       </compileType>
       <item path="READ ME" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="entradaspadrao" ex="false" tool="3" flavor2="0">
+      <item path="entradaspadrao.txt" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="entradasteste" ex="false" tool="3" flavor2="0">
+      <item path="entradasteste.txt" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="entradasteste2.txt" ex="false" tool="3" flavor2="0">
       </item>
       <item path="main.c" ex="false" tool="0" flavor2="0">
       </item>
