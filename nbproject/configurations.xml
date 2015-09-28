@@ -9,6 +9,8 @@
                    displayName="Arquivos de Código-Fonte"
                    projectFiles="true">
       <itemPath>READ ME</itemPath>
+      <itemPath>entradaspadrao</itemPath>
+      <itemPath>entradasteste</itemPath>
       <itemPath>main.c</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
@@ -39,6 +41,10 @@
       </compileType>
       <item path="READ ME" ex="false" tool="3" flavor2="0">
       </item>
+      <item path="entradaspadrao" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="entradasteste" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="main.c" ex="false" tool="0" flavor2="0">
       </item>
     </conf>
@@ -63,6 +69,10 @@
         </asmTool>
       </compileType>
       <item path="READ ME" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="entradaspadrao" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="entradasteste" ex="false" tool="3" flavor2="0">
       </item>
       <item path="main.c" ex="false" tool="0" flavor2="0">
       </item>

@@ -3,7 +3,6 @@ N° USP: 9312599
 EESC - SP
 GitHub username: nicolemendes
 
-TESTE
 
 1-Especificações do ambiente de trabalho e desenvolvimento
 
@@ -30,17 +29,4 @@ Para outros IDE o processo é feito de maneira análoga. O usuário ainda tem a 
 3- Como usar o programa
 
 
--Closest Pair-
-
-Objetivo:
-
--Element uniqueness- 
-
-Objetivo:
-
-- Frequency distribution -
-
-Objetivo:
-
-
-
+Ao abrir o executável, o programa irá pedir ao usuário o tamanho do vetor de inteiros. Em seguida, deve-se digitar as entradas 
